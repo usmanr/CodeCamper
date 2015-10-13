@@ -1,0 +1,1 @@
+C:\dev\PluralSight\CodeCamper\CodeCamper\CodeCamper.Data\obj\Debug\CodeCamper.Data.csprojResolveAssemblyReference.cache
