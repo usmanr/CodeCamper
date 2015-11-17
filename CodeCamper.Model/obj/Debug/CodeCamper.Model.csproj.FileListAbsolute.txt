@@ -3,3 +3,7 @@ C:\dev\PluralSight\CodeCamper\CodeCamper\CodeCamper.Model\bin\Debug\CodeCamper.M
 C:\dev\PluralSight\CodeCamper\CodeCamper\CodeCamper.Model\obj\Debug\CodeCamper.Model.csprojResolveAssemblyReference.cache
 C:\dev\PluralSight\CodeCamper\CodeCamper\CodeCamper.Model\obj\Debug\CodeCamper.Model.dll
 C:\dev\PluralSight\CodeCamper\CodeCamper\CodeCamper.Model\obj\Debug\CodeCamper.Model.pdb
+C:\dev\pluralsight\MyCodeCamper\CodeCamper.Model\bin\Debug\CodeCamper.Model.dll
+C:\dev\pluralsight\MyCodeCamper\CodeCamper.Model\bin\Debug\CodeCamper.Model.pdb
+C:\dev\pluralsight\MyCodeCamper\CodeCamper.Model\obj\Debug\CodeCamper.Model.dll
+C:\dev\pluralsight\MyCodeCamper\CodeCamper.Model\obj\Debug\CodeCamper.Model.pdb

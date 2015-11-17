@@ -5,3 +5,10 @@ C:\dev\PluralSight\CodeCamper\CodeCamper\CodeCamper.Data.Contracts\bin\Debug\Cod
 C:\dev\PluralSight\CodeCamper\CodeCamper\CodeCamper.Data.Contracts\obj\Debug\CodeCamper.Data.Contracts.csprojResolveAssemblyReference.cache
 C:\dev\PluralSight\CodeCamper\CodeCamper\CodeCamper.Data.Contracts\obj\Debug\CodeCamper.Data.Contracts.dll
 C:\dev\PluralSight\CodeCamper\CodeCamper\CodeCamper.Data.Contracts\obj\Debug\CodeCamper.Data.Contracts.pdb
+C:\dev\pluralsight\MyCodeCamper\CodeCamper.Data.Contracts\bin\Debug\CodeCamper.Data.Contracts.dll
+C:\dev\pluralsight\MyCodeCamper\CodeCamper.Data.Contracts\bin\Debug\CodeCamper.Data.Contracts.pdb
+C:\dev\pluralsight\MyCodeCamper\CodeCamper.Data.Contracts\bin\Debug\CodeCamper.Model.dll
+C:\dev\pluralsight\MyCodeCamper\CodeCamper.Data.Contracts\bin\Debug\CodeCamper.Model.pdb
+C:\dev\pluralsight\MyCodeCamper\CodeCamper.Data.Contracts\obj\Debug\CodeCamper.Data.Contracts.csprojResolveAssemblyReference.cache
+C:\dev\pluralsight\MyCodeCamper\CodeCamper.Data.Contracts\obj\Debug\CodeCamper.Data.Contracts.dll
+C:\dev\pluralsight\MyCodeCamper\CodeCamper.Data.Contracts\obj\Debug\CodeCamper.Data.Contracts.pdb
